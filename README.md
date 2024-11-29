@@ -32,5 +32,5 @@ The **Full Washing Machine Controller System** is a Verilog-based design that si
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ShashwatGohel/Washing_Machine_Controller.git
-   cd Washing_Machine_Controller
+   git clone https://github.com/ShashwatGohel/Washing_Machine_Controller_Using_Fuzzy_Logic
+   cd  Washing_Machine_Controller_Using_Fuzzy_Logic
